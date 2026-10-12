@@ -1,5 +1,7 @@
 # Render
 
+[![skills.sh](https://skills.sh/b/TheSethRose/render-skill)](https://skills.sh/TheSethRose/render-skill)
+
 An agent skill that turns Markdown into documents worth sending: **HTML**, **Word (DOCX)** and **PDF**, with editorial typography in all three.
 
 ![The same Markdown rendered to HTML in light and dark mode](docs/preview.png)
